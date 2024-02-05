@@ -1,5 +1,10 @@
 ## Project List and Explanations
 
+> [!IMPORTANT]
+> This organisation is archived as this subject has completed, please orient any questions at the relevant commit authors, repository owners, or organisation members.
+> Thanks :)
+> Jon McLean
+
 ### SIS_UnityProject
 This repo is for the Unity project that is used to display the translated hand signs to the wearer of a Microsoft Hololens
 
